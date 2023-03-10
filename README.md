@@ -36,6 +36,7 @@ Mülakatlarda başarılı olmak için Bilgisayar Bilimleri'nden bilmeniz gereken
 - Okunabilecek kitaplar ([Cracking the Coding Interview (Gerçekten öneririm)](./Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), Introduction to Algorithms, [How to Think about Algorithms](./How%20to%20Think%20about%20Algorithms.pdf))
 <br></br>
 - Başka yazılımcılarla birlikte çalışma([Coding Buddy](https://www.reddit.com/r/ProgrammingBuddies/))
+- Bilgisayar Bilimleri konuları ([web3ogren](https://web3ogren.com/docs/category/bilgisayar-bilimleri/))
 
 <b>Son olarakta sizlere çalışırken takip etmenizi önerebileceğim yol haritaları:</b>
 - <b>[Coding Interview University](https://github.com/jwasham/coding-interview-university)</b> Mülakatlara hazırlanmak ve algoritmaları öğrenmek için bu bağlantıyı kullanabilirsiniz (Aşırı şiddetle tavsiye ederim.).
