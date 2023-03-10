@@ -33,7 +33,7 @@ Mülakatlarda başarılı olmak için Bilgisayar Bilimleri'nden bilmeniz gereken
 <br></br>
 - <b>[Hackerrank-Algorithms](https://www.hackerrank.com/domains/algorithms)</b> Şu ana kadar girdiğim mülakatlarda hackerrank üzerinden sorular yollanırdı ve belli süre içerisinde soruları çözmem beklenirdi.
 <br></br>
-- Okunabilecek kitaplar (Cracking the Coding Interview (Gerçekten öneririm), Introduction to Algorithms, How to Think about Algorithms)
+- Okunabilecek kitaplar ([Cracking the Coding Interview (Gerçekten öneririm)](./Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf), Introduction to Algorithms, [How to Think about Algorithms](./How%20to%20Think%20about%20Algorithms.pdf))
 <br></br>
 - Başka yazılımcılarla birlikte çalışma([Coding Buddy](https://www.reddit.com/r/ProgrammingBuddies/))
 
