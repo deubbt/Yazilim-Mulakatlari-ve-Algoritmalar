@@ -30,11 +30,11 @@ Mülakatlarda başarılı olmak için Bilgisayar Bilimleri'nden bilmeniz gereken
 
 <b>Bu kavramları öğrenirken kullanabileceğiniz araçlar.</b>
 - Online platformlardan pratik yapma (HackerRank, [LeetCode](https://leetcode.com/problemset/all/), [Project Euler](https://projecteuler.net/archives))
-- &nbsp;
+<br></br>
 - <b>[Hackerrank-Algorithms](https://www.hackerrank.com/domains/algorithms)</b> Şu ana kadar girdiğim mülakatlarda hackerrank üzerinden sorular yollanırdı ve belli süre içerisinde soruları çözmem beklenirdi.
-- &nbsp;
+<br></br>
 - Okunabilecek kitaplar (Cracking the Coding Interview (Gerçekten öneririm), Introduction to Algorithms, How to Think about Algorithms)
-- &nbsp;
+<br></br>
 - Başka yazılımcılarla birlikte çalışma([Coding Buddy](https://www.reddit.com/r/ProgrammingBuddies/))
 
 <b>Son olarakta sizlere çalışırken takip etmenizi önerebileceğim yol haritaları:</b>
