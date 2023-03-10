@@ -1,0 +1,1503 @@
+country,date,daily_vaccinations,vaccines
+Argentina,12/29/2020,,Sputnik V
+Argentina,12/30/2020,15656,Sputnik V
+Argentina,12/31/2020,15656,Sputnik V
+Argentina,1/1/2021,11070,Sputnik V
+Argentina,1/2/2021,8776,Sputnik V
+Argentina,1/3/2021,7400,Sputnik V
+Argentina,1/4/2021,6483,Sputnik V
+Argentina,1/5/2021,7984,Sputnik V
+Argentina,1/6/2021,8173,Sputnik V
+Argentina,1/7/2021,8363,Sputnik V
+Argentina,1/8/2021,10519,Sputnik V
+Argentina,1/9/2021,11942,Sputnik V
+Argentina,1/10/2021,13365,Sputnik V
+Argentina,1/11/2021,14788,Sputnik V
+Argentina,1/12/2021,14056,Sputnik V
+Argentina,1/13/2021,13323,Sputnik V
+Argentina,1/14/2021,13320,Sputnik V
+Argentina,1/15/2021,13317,Sputnik V
+Argentina,1/16/2021,12971,Sputnik V
+Argentina,1/17/2021,12624,Sputnik V
+Argentina,1/18/2021,12278,Sputnik V
+Argentina,1/19/2021,11932,Sputnik V
+Argentina,1/20/2021,11586,Sputnik V
+Argentina,1/21/2021,11704,Sputnik V
+Argentina,1/22/2021,11263,Sputnik V
+Argentina,1/23/2021,11124,Sputnik V
+Argentina,1/24/2021,10342,Sputnik V
+Argentina,1/25/2021,9046,Sputnik V
+Austria,1/5/2021,,Pfizer/BioNTech
+Austria,1/6/2021,3368,Pfizer/BioNTech
+Austria,1/7/2021,3368,Pfizer/BioNTech
+Austria,1/8/2021,7263,Pfizer/BioNTech
+Austria,1/9/2021,5791,Pfizer/BioNTech
+Austria,1/10/2021,4705,Pfizer/BioNTech
+Austria,1/11/2021,5031,Pfizer/BioNTech
+Austria,1/12/2021,6366,Pfizer/BioNTech
+Austria,1/13/2021,7365,Pfizer/BioNTech
+Austria,1/14/2021,8429,Pfizer/BioNTech
+Austria,1/15/2021,7747,Pfizer/BioNTech
+Austria,1/16/2021,7953,Pfizer/BioNTech
+Austria,1/17/2021,10129,Pfizer/BioNTech
+Austria,1/18/2021,11852,Pfizer/BioNTech
+Austria,1/19/2021,12472,Pfizer/BioNTech
+Austria,1/20/2021,12489,Pfizer/BioNTech
+Austria,1/21/2021,12552,Pfizer/BioNTech
+Austria,1/22/2021,11797,Pfizer/BioNTech
+Austria,1/23/2021,11765,Pfizer/BioNTech
+Austria,1/24/2021,9622,Pfizer/BioNTech
+Bahrain,12/23/2020,,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/24/2020,11106,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/25/2020,5789,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/26/2020,4197,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/27/2020,3662,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/28/2020,3210,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/29/2020,2846,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/30/2020,2622,"Pfizer/BioNTech, Sinopharm"
+Bahrain,12/31/2020,1225,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/1/2021,1258,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/2/2021,1220,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/3/2021,1011,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/4/2021,943,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/5/2021,1122,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/6/2021,1594,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/7/2021,1942,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/8/2021,2706,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/9/2021,3437,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/10/2021,4080,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/11/2021,4427,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/12/2021,4840,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/13/2021,4699,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/14/2021,5332,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/15/2021,6361,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/16/2021,7572,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/17/2021,7473,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/18/2021,7176,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/19/2021,6546,"Pfizer/BioNTech, Sinopharm"
+Bahrain,1/20/2021,6110,"Pfizer/BioNTech, Sinopharm"
+Belgium,12/28/2020,,Pfizer/BioNTech
+Belgium,12/29/2020,1,Pfizer/BioNTech
+Belgium,12/30/2020,234,Pfizer/BioNTech
+Belgium,12/31/2020,159,Pfizer/BioNTech
+Belgium,1/1/2021,122,Pfizer/BioNTech
+Belgium,1/2/2021,97,Pfizer/BioNTech
+Belgium,1/3/2021,81,Pfizer/BioNTech
+Belgium,1/4/2021,70,Pfizer/BioNTech
+Belgium,1/5/2021,283,Pfizer/BioNTech
+Belgium,1/6/2021,736,Pfizer/BioNTech
+Belgium,1/7/2021,1855,Pfizer/BioNTech
+Belgium,1/8/2021,3134,Pfizer/BioNTech
+Belgium,1/9/2021,3578,Pfizer/BioNTech
+Belgium,1/10/2021,3634,Pfizer/BioNTech
+Belgium,1/11/2021,4398,Pfizer/BioNTech
+Belgium,1/12/2021,6284,Pfizer/BioNTech
+Belgium,1/13/2021,8558,Pfizer/BioNTech
+Belgium,1/14/2021,10320,Pfizer/BioNTech
+Belgium,1/15/2021,12023,Pfizer/BioNTech
+Belgium,1/16/2021,12246,Pfizer/BioNTech
+Belgium,1/17/2021,12582,Pfizer/BioNTech
+Belgium,1/18/2021,13135,Pfizer/BioNTech
+Belgium,1/19/2021,13001,Pfizer/BioNTech
+Belgium,1/20/2021,12222,Pfizer/BioNTech
+Belgium,1/21/2021,11112,Pfizer/BioNTech
+Belgium,1/22/2021,9632,Pfizer/BioNTech
+Brazil,1/16/2021,,Sinovac
+Brazil,1/17/2021,112,Sinovac
+Brazil,1/18/2021,554,Sinovac
+Brazil,1/19/2021,3823,Sinovac
+Brazil,1/20/2021,7136,Sinovac
+Brazil,1/21/2021,27304,Sinovac
+Brazil,1/22/2021,40980,Sinovac
+Brazil,1/23/2021,76825,Sinovac
+Brazil,1/24/2021,86373,Sinovac
+Brazil,1/25/2021,99928,Sinovac
+Bulgaria,12/29/2020,,"Moderna, Pfizer/BioNTech"
+Bulgaria,12/30/2020,2889,"Moderna, Pfizer/BioNTech"
+Bulgaria,12/31/2020,1477,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/1/2021,1007,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/2/2021,799,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/3/2021,675,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/4/2021,592,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/5/2021,533,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/6/2021,472,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/7/2021,920,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/8/2021,1231,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/9/2021,1222,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/10/2021,1246,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/11/2021,1270,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/12/2021,1476,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/13/2021,1304,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/14/2021,938,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/15/2021,682,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/16/2021,694,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/17/2021,662,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/18/2021,782,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/19/2021,921,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/20/2021,1013,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/21/2021,1081,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/22/2021,1139,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/23/2021,1112,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/24/2021,1099,"Moderna, Pfizer/BioNTech"
+Bulgaria,1/25/2021,1023,"Moderna, Pfizer/BioNTech"
+Canada,12/14/2020,,"Moderna, Pfizer/BioNTech"
+Canada,12/15/2020,866,"Moderna, Pfizer/BioNTech"
+Canada,12/16/2020,1693,"Moderna, Pfizer/BioNTech"
+Canada,12/17/2020,2301,"Moderna, Pfizer/BioNTech"
+Canada,12/18/2020,2580,"Moderna, Pfizer/BioNTech"
+Canada,12/19/2020,2319,"Moderna, Pfizer/BioNTech"
+Canada,12/20/2020,2366,"Moderna, Pfizer/BioNTech"
+Canada,12/21/2020,2938,"Moderna, Pfizer/BioNTech"
+Canada,12/22/2020,3589,"Moderna, Pfizer/BioNTech"
+Canada,12/23/2020,4487,"Moderna, Pfizer/BioNTech"
+Canada,12/24/2020,5457,"Moderna, Pfizer/BioNTech"
+Canada,12/25/2020,5012,"Moderna, Pfizer/BioNTech"
+Canada,12/26/2020,5261,"Moderna, Pfizer/BioNTech"
+Canada,12/27/2020,5398,"Moderna, Pfizer/BioNTech"
+Canada,12/28/2020,5512,"Moderna, Pfizer/BioNTech"
+Canada,12/29/2020,6352,"Moderna, Pfizer/BioNTech"
+Canada,12/30/2020,6342,"Moderna, Pfizer/BioNTech"
+Canada,12/31/2020,7205,"Moderna, Pfizer/BioNTech"
+Canada,1/1/2021,8378,"Moderna, Pfizer/BioNTech"
+Canada,1/2/2021,9101,"Moderna, Pfizer/BioNTech"
+Canada,1/3/2021,9350,"Moderna, Pfizer/BioNTech"
+Canada,1/4/2021,11044,"Moderna, Pfizer/BioNTech"
+Canada,1/5/2021,12111,"Moderna, Pfizer/BioNTech"
+Canada,1/6/2021,14887,"Moderna, Pfizer/BioNTech"
+Canada,1/7/2021,17662,"Moderna, Pfizer/BioNTech"
+Canada,1/8/2021,22412,"Moderna, Pfizer/BioNTech"
+Canada,1/9/2021,26418,"Moderna, Pfizer/BioNTech"
+Canada,1/10/2021,29046,"Moderna, Pfizer/BioNTech"
+Canada,1/11/2021,31914,"Moderna, Pfizer/BioNTech"
+Canada,1/12/2021,33281,"Moderna, Pfizer/BioNTech"
+Canada,1/13/2021,33646,"Moderna, Pfizer/BioNTech"
+Canada,1/14/2021,34290,"Moderna, Pfizer/BioNTech"
+Canada,1/15/2021,35208,"Moderna, Pfizer/BioNTech"
+Canada,1/16/2021,35134,"Moderna, Pfizer/BioNTech"
+Canada,1/17/2021,35670,"Moderna, Pfizer/BioNTech"
+Canada,1/18/2021,36358,"Moderna, Pfizer/BioNTech"
+Canada,1/19/2021,37521,"Moderna, Pfizer/BioNTech"
+Canada,1/20/2021,39576,"Moderna, Pfizer/BioNTech"
+Canada,1/21/2021,39910,"Moderna, Pfizer/BioNTech"
+Canada,1/22/2021,38417,"Moderna, Pfizer/BioNTech"
+Canada,1/23/2021,36850,"Moderna, Pfizer/BioNTech"
+Canada,1/24/2021,35101,"Moderna, Pfizer/BioNTech"
+Canada,1/25/2021,32183,"Moderna, Pfizer/BioNTech"
+Chile,12/24/2020,,Pfizer/BioNTech
+Chile,12/25/2020,4771,Pfizer/BioNTech
+Chile,12/26/2020,3958,Pfizer/BioNTech
+Chile,12/27/2020,2742,Pfizer/BioNTech
+Chile,12/28/2020,2069,Pfizer/BioNTech
+Chile,12/29/2020,1665,Pfizer/BioNTech
+Chile,12/30/2020,1396,Pfizer/BioNTech
+Chile,12/31/2020,1204,Pfizer/BioNTech
+Chile,1/1/2021,530,Pfizer/BioNTech
+Chile,1/2/2021,88,Pfizer/BioNTech
+Chile,1/3/2021,51,Pfizer/BioNTech
+Chile,1/4/2021,51,Pfizer/BioNTech
+Chile,1/5/2021,250,Pfizer/BioNTech
+Chile,1/6/2021,272,Pfizer/BioNTech
+Chile,1/7/2021,344,Pfizer/BioNTech
+Chile,1/8/2021,417,Pfizer/BioNTech
+Chile,1/9/2021,489,Pfizer/BioNTech
+Chile,1/10/2021,562,Pfizer/BioNTech
+Chile,1/11/2021,635,Pfizer/BioNTech
+Chile,1/12/2021,508,Pfizer/BioNTech
+Chile,1/13/2021,559,Pfizer/BioNTech
+Chile,1/14/2021,1038,Pfizer/BioNTech
+Chile,1/15/2021,1437,Pfizer/BioNTech
+Chile,1/16/2021,1366,Pfizer/BioNTech
+Chile,1/17/2021,1291,Pfizer/BioNTech
+Chile,1/18/2021,2699,Pfizer/BioNTech
+Chile,1/19/2021,5267,Pfizer/BioNTech
+Chile,1/20/2021,5632,Pfizer/BioNTech
+Chile,1/21/2021,6328,Pfizer/BioNTech
+Chile,1/22/2021,5882,Pfizer/BioNTech
+Chile,1/23/2021,6000,Pfizer/BioNTech
+Chile,1/24/2021,6020,Pfizer/BioNTech
+Chile,1/25/2021,4557,Pfizer/BioNTech
+China,12/15/2020,,"CNBG, Sinovac"
+China,12/16/2020,187500,"CNBG, Sinovac"
+China,12/17/2020,187500,"CNBG, Sinovac"
+China,12/18/2020,187500,"CNBG, Sinovac"
+China,12/19/2020,187500,"CNBG, Sinovac"
+China,12/20/2020,187500,"CNBG, Sinovac"
+China,12/21/2020,187500,"CNBG, Sinovac"
+China,12/22/2020,187500,"CNBG, Sinovac"
+China,12/23/2020,187500,"CNBG, Sinovac"
+China,12/24/2020,187500,"CNBG, Sinovac"
+China,12/25/2020,187500,"CNBG, Sinovac"
+China,12/26/2020,187500,"CNBG, Sinovac"
+China,12/27/2020,187500,"CNBG, Sinovac"
+China,12/28/2020,187500,"CNBG, Sinovac"
+China,12/29/2020,187500,"CNBG, Sinovac"
+China,12/30/2020,187500,"CNBG, Sinovac"
+China,12/31/2020,187500,"CNBG, Sinovac"
+China,1/1/2021,232143,"CNBG, Sinovac"
+China,1/2/2021,276786,"CNBG, Sinovac"
+China,1/3/2021,321429,"CNBG, Sinovac"
+China,1/4/2021,366071,"CNBG, Sinovac"
+China,1/5/2021,410714,"CNBG, Sinovac"
+China,1/6/2021,455357,"CNBG, Sinovac"
+China,1/7/2021,500000,"CNBG, Sinovac"
+China,1/8/2021,500000,"CNBG, Sinovac"
+China,1/9/2021,500000,"CNBG, Sinovac"
+China,1/10/2021,464286,"CNBG, Sinovac"
+China,1/11/2021,428571,"CNBG, Sinovac"
+China,1/12/2021,392857,"CNBG, Sinovac"
+China,1/13/2021,357143,"CNBG, Sinovac"
+China,1/14/2021,387755,"CNBG, Sinovac"
+China,1/15/2021,418367,"CNBG, Sinovac"
+China,1/16/2021,448980,"CNBG, Sinovac"
+China,1/17/2021,515306,"CNBG, Sinovac"
+China,1/18/2021,581633,"CNBG, Sinovac"
+China,1/19/2021,647959,"CNBG, Sinovac"
+China,1/20/2021,714286,"CNBG, Sinovac"
+Costa Rica,12/24/2020,,Pfizer/BioNTech
+Costa Rica,12/25/2020,240,Pfizer/BioNTech
+Costa Rica,12/26/2020,240,Pfizer/BioNTech
+Costa Rica,12/27/2020,240,Pfizer/BioNTech
+Costa Rica,12/28/2020,240,Pfizer/BioNTech
+Costa Rica,12/29/2020,240,Pfizer/BioNTech
+Costa Rica,12/30/2020,240,Pfizer/BioNTech
+Costa Rica,12/31/2020,240,Pfizer/BioNTech
+Costa Rica,1/1/2021,240,Pfizer/BioNTech
+Costa Rica,1/2/2021,240,Pfizer/BioNTech
+Costa Rica,1/3/2021,240,Pfizer/BioNTech
+Costa Rica,1/4/2021,414,Pfizer/BioNTech
+Costa Rica,1/5/2021,588,Pfizer/BioNTech
+Costa Rica,1/6/2021,763,Pfizer/BioNTech
+Costa Rica,1/7/2021,937,Pfizer/BioNTech
+Costa Rica,1/8/2021,1111,Pfizer/BioNTech
+Costa Rica,1/9/2021,1385,Pfizer/BioNTech
+Costa Rica,1/10/2021,1659,Pfizer/BioNTech
+Costa Rica,1/11/2021,1759,Pfizer/BioNTech
+Costa Rica,1/12/2021,1859,Pfizer/BioNTech
+Costa Rica,1/13/2021,1959,Pfizer/BioNTech
+Costa Rica,1/14/2021,2058,Pfizer/BioNTech
+Costa Rica,1/15/2021,2158,Pfizer/BioNTech
+Costa Rica,1/16/2021,2066,Pfizer/BioNTech
+Costa Rica,1/17/2021,1973,Pfizer/BioNTech
+Costa Rica,1/18/2021,1880,Pfizer/BioNTech
+Croatia,12/30/2020,,Pfizer/BioNTech
+Croatia,12/31/2020,1105,Pfizer/BioNTech
+Croatia,1/1/2021,1105,Pfizer/BioNTech
+Croatia,1/2/2021,1105,Pfizer/BioNTech
+Croatia,1/3/2021,1105,Pfizer/BioNTech
+Croatia,1/4/2021,1036,Pfizer/BioNTech
+Croatia,1/5/2021,989,Pfizer/BioNTech
+Croatia,1/6/2021,1334,Pfizer/BioNTech
+Croatia,1/7/2021,1662,Pfizer/BioNTech
+Croatia,1/8/2021,2130,Pfizer/BioNTech
+Croatia,1/9/2021,2689,Pfizer/BioNTech
+Croatia,1/10/2021,2693,Pfizer/BioNTech
+Croatia,1/11/2021,2748,Pfizer/BioNTech
+Croatia,1/12/2021,2802,Pfizer/BioNTech
+Croatia,1/13/2021,2479,Pfizer/BioNTech
+Croatia,1/14/2021,2485,Pfizer/BioNTech
+Croatia,1/15/2021,2364,Pfizer/BioNTech
+Croatia,1/16/2021,2272,Pfizer/BioNTech
+Croatia,1/17/2021,2510,Pfizer/BioNTech
+Croatia,1/18/2021,2747,Pfizer/BioNTech
+Croatia,1/19/2021,2984,Pfizer/BioNTech
+Croatia,1/20/2021,3329,Pfizer/BioNTech
+Croatia,1/21/2021,3343,Pfizer/BioNTech
+Croatia,1/22/2021,3346,Pfizer/BioNTech
+Croatia,1/23/2021,2960,Pfizer/BioNTech
+Croatia,1/24/2021,2800,Pfizer/BioNTech
+Croatia,1/25/2021,2640,Pfizer/BioNTech
+Cyprus,1/6/2021,,Pfizer/BioNTech
+Cyprus,1/7/2021,534,Pfizer/BioNTech
+Cyprus,1/8/2021,534,Pfizer/BioNTech
+Cyprus,1/9/2021,534,Pfizer/BioNTech
+Cyprus,1/10/2021,534,Pfizer/BioNTech
+Cyprus,1/11/2021,594,Pfizer/BioNTech
+Cyprus,1/12/2021,635,Pfizer/BioNTech
+Cyprus,1/13/2021,664,Pfizer/BioNTech
+Cyprus,1/14/2021,708,Pfizer/BioNTech
+Cyprus,1/15/2021,751,Pfizer/BioNTech
+Cyprus,1/16/2021,821,Pfizer/BioNTech
+Cyprus,1/17/2021,891,Pfizer/BioNTech
+Cyprus,1/18/2021,917,Pfizer/BioNTech
+Cyprus,1/19/2021,943,Pfizer/BioNTech
+Cyprus,1/20/2021,969,Pfizer/BioNTech
+Cyprus,1/21/2021,996,Pfizer/BioNTech
+Cyprus,1/22/2021,1022,Pfizer/BioNTech
+Czechia,12/27/2020,,"Moderna, Pfizer/BioNTech"
+Czechia,12/28/2020,2229,"Moderna, Pfizer/BioNTech"
+Czechia,12/29/2020,2798,"Moderna, Pfizer/BioNTech"
+Czechia,12/30/2020,3010,"Moderna, Pfizer/BioNTech"
+Czechia,12/31/2020,2583,"Moderna, Pfizer/BioNTech"
+Czechia,1/1/2021,2119,"Moderna, Pfizer/BioNTech"
+Czechia,1/2/2021,1974,"Moderna, Pfizer/BioNTech"
+Czechia,1/3/2021,1822,"Moderna, Pfizer/BioNTech"
+Czechia,1/4/2021,1994,"Moderna, Pfizer/BioNTech"
+Czechia,1/5/2021,2128,"Moderna, Pfizer/BioNTech"
+Czechia,1/6/2021,2439,"Moderna, Pfizer/BioNTech"
+Czechia,1/7/2021,3361,"Moderna, Pfizer/BioNTech"
+Czechia,1/8/2021,4730,"Moderna, Pfizer/BioNTech"
+Czechia,1/9/2021,4832,"Moderna, Pfizer/BioNTech"
+Czechia,1/10/2021,4944,"Moderna, Pfizer/BioNTech"
+Czechia,1/11/2021,5812,"Moderna, Pfizer/BioNTech"
+Czechia,1/12/2021,7042,"Moderna, Pfizer/BioNTech"
+Czechia,1/13/2021,8132,"Moderna, Pfizer/BioNTech"
+Czechia,1/14/2021,9103,"Moderna, Pfizer/BioNTech"
+Czechia,1/15/2021,9588,"Moderna, Pfizer/BioNTech"
+Czechia,1/16/2021,9771,"Moderna, Pfizer/BioNTech"
+Czechia,1/17/2021,9963,"Moderna, Pfizer/BioNTech"
+Czechia,1/18/2021,10515,"Moderna, Pfizer/BioNTech"
+Czechia,1/19/2021,10743,"Moderna, Pfizer/BioNTech"
+Czechia,1/20/2021,10919,"Moderna, Pfizer/BioNTech"
+Czechia,1/21/2021,11087,"Moderna, Pfizer/BioNTech"
+Czechia,1/22/2021,11174,"Moderna, Pfizer/BioNTech"
+Czechia,1/23/2021,11220,"Moderna, Pfizer/BioNTech"
+Czechia,1/24/2021,11136,"Moderna, Pfizer/BioNTech"
+Czechia,1/25/2021,9226,"Moderna, Pfizer/BioNTech"
+Denmark,12/27/2020,,"Moderna, Pfizer/BioNTech"
+Denmark,12/28/2020,1994,"Moderna, Pfizer/BioNTech"
+Denmark,12/29/2020,5527,"Moderna, Pfizer/BioNTech"
+Denmark,12/30/2020,7525,"Moderna, Pfizer/BioNTech"
+Denmark,12/31/2020,7223,"Moderna, Pfizer/BioNTech"
+Denmark,1/1/2021,6254,"Moderna, Pfizer/BioNTech"
+Denmark,1/2/2021,6712,"Moderna, Pfizer/BioNTech"
+Denmark,1/3/2021,6616,"Moderna, Pfizer/BioNTech"
+Denmark,1/4/2021,6679,"Moderna, Pfizer/BioNTech"
+Denmark,1/5/2021,7319,"Moderna, Pfizer/BioNTech"
+Denmark,1/6/2021,8525,"Moderna, Pfizer/BioNTech"
+Denmark,1/7/2021,10138,"Moderna, Pfizer/BioNTech"
+Denmark,1/8/2021,11022,"Moderna, Pfizer/BioNTech"
+Denmark,1/9/2021,10008,"Moderna, Pfizer/BioNTech"
+Denmark,1/10/2021,9261,"Moderna, Pfizer/BioNTech"
+Denmark,1/11/2021,9008,"Moderna, Pfizer/BioNTech"
+Denmark,1/12/2021,7139,"Moderna, Pfizer/BioNTech"
+Denmark,1/13/2021,6098,"Moderna, Pfizer/BioNTech"
+Denmark,1/14/2021,6122,"Moderna, Pfizer/BioNTech"
+Denmark,1/15/2021,7052,"Moderna, Pfizer/BioNTech"
+Denmark,1/16/2021,7451,"Moderna, Pfizer/BioNTech"
+Denmark,1/17/2021,7800,"Moderna, Pfizer/BioNTech"
+Denmark,1/18/2021,8567,"Moderna, Pfizer/BioNTech"
+Denmark,1/19/2021,9160,"Moderna, Pfizer/BioNTech"
+Denmark,1/20/2021,7840,"Moderna, Pfizer/BioNTech"
+Denmark,1/21/2021,5852,"Moderna, Pfizer/BioNTech"
+Denmark,1/22/2021,4568,"Moderna, Pfizer/BioNTech"
+Denmark,1/23/2021,4948,"Moderna, Pfizer/BioNTech"
+Denmark,1/24/2021,5299,"Moderna, Pfizer/BioNTech"
+Denmark,1/25/2021,4439,"Moderna, Pfizer/BioNTech"
+Ecuador,1/21/2021,,Pfizer/BioNTech
+Ecuador,1/22/2021,108,Pfizer/BioNTech
+England,12/20/2020,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/21/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/22/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/23/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/24/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/25/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/26/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/27/2020,37625,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/28/2020,39253,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/29/2020,40882,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/30/2020,42511,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,12/31/2020,44139,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/1/2021,45768,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/2/2021,47396,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/3/2021,49025,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/4/2021,65678,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/5/2021,82331,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/6/2021,98984,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/7/2021,115637,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/8/2021,132290,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/9/2021,148943,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/10/2021,165596,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/11/2021,162002,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/12/2021,165152,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/13/2021,176950,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/14/2021,193243,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/15/2021,215973,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/16/2021,231918,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/17/2021,230525,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/18/2021,234877,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/19/2021,251122,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/20/2021,261507,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/21/2021,272972,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/22/2021,287384,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/23/2021,311226,"Oxford/AstraZeneca, Pfizer/BioNTech"
+England,1/24/2021,317419,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Estonia,12/28/2020,,Pfizer/BioNTech
+Estonia,12/29/2020,309,Pfizer/BioNTech
+Estonia,12/30/2020,338,Pfizer/BioNTech
+Estonia,12/31/2020,567,Pfizer/BioNTech
+Estonia,1/1/2021,570,Pfizer/BioNTech
+Estonia,1/2/2021,459,Pfizer/BioNTech
+Estonia,1/3/2021,385,Pfizer/BioNTech
+Estonia,1/4/2021,333,Pfizer/BioNTech
+Estonia,1/5/2021,382,Pfizer/BioNTech
+Estonia,1/6/2021,589,Pfizer/BioNTech
+Estonia,1/7/2021,675,Pfizer/BioNTech
+Estonia,1/8/2021,784,Pfizer/BioNTech
+Estonia,1/9/2021,1099,Pfizer/BioNTech
+Estonia,1/10/2021,1176,Pfizer/BioNTech
+Estonia,1/11/2021,1205,Pfizer/BioNTech
+Estonia,1/12/2021,1244,Pfizer/BioNTech
+Estonia,1/13/2021,1210,Pfizer/BioNTech
+Estonia,1/14/2021,1178,Pfizer/BioNTech
+Estonia,1/15/2021,1243,Pfizer/BioNTech
+Estonia,1/16/2021,1109,Pfizer/BioNTech
+Estonia,1/17/2021,1061,Pfizer/BioNTech
+Estonia,1/18/2021,1043,Pfizer/BioNTech
+Estonia,1/19/2021,1060,Pfizer/BioNTech
+Estonia,1/20/2021,1000,Pfizer/BioNTech
+Estonia,1/21/2021,1015,Pfizer/BioNTech
+Estonia,1/22/2021,1074,Pfizer/BioNTech
+Estonia,1/23/2021,1106,Pfizer/BioNTech
+Estonia,1/24/2021,1112,Pfizer/BioNTech
+Estonia,1/25/2021,1122,Pfizer/BioNTech
+Finland,12/31/2020,,Pfizer/BioNTech
+Finland,1/1/2021,459,Pfizer/BioNTech
+Finland,1/2/2021,459,Pfizer/BioNTech
+Finland,1/3/2021,459,Pfizer/BioNTech
+Finland,1/4/2021,459,Pfizer/BioNTech
+Finland,1/5/2021,736,Pfizer/BioNTech
+Finland,1/6/2021,839,Pfizer/BioNTech
+Finland,1/7/2021,913,Pfizer/BioNTech
+Finland,1/8/2021,1273,Pfizer/BioNTech
+Finland,1/9/2021,1353,Pfizer/BioNTech
+Finland,1/10/2021,1433,Pfizer/BioNTech
+Finland,1/11/2021,1513,Pfizer/BioNTech
+Finland,1/12/2021,1739,Pfizer/BioNTech
+Finland,1/13/2021,2332,Pfizer/BioNTech
+Finland,1/14/2021,3554,Pfizer/BioNTech
+Finland,1/15/2021,4573,Pfizer/BioNTech
+Finland,1/16/2021,4971,Pfizer/BioNTech
+Finland,1/17/2021,5369,Pfizer/BioNTech
+Finland,1/18/2021,5767,Pfizer/BioNTech
+Finland,1/19/2021,5458,Pfizer/BioNTech
+Finland,1/20/2021,5562,Pfizer/BioNTech
+Finland,1/21/2021,6467,Pfizer/BioNTech
+Finland,1/22/2021,6874,Pfizer/BioNTech
+Finland,1/23/2021,7253,Pfizer/BioNTech
+Finland,1/24/2021,7633,Pfizer/BioNTech
+Finland,1/25/2021,8012,Pfizer/BioNTech
+France,1/4/2021,,Pfizer/BioNTech
+France,1/5/2021,5000,Pfizer/BioNTech
+France,1/6/2021,8500,Pfizer/BioNTech
+France,1/7/2021,14667,Pfizer/BioNTech
+France,1/8/2021,20000,Pfizer/BioNTech
+France,1/9/2021,18800,Pfizer/BioNTech
+France,1/10/2021,17667,Pfizer/BioNTech
+France,1/11/2021,19622,Pfizer/BioNTech
+France,1/12/2021,26262,Pfizer/BioNTech
+France,1/13/2021,32738,Pfizer/BioNTech
+France,1/14/2021,39031,Pfizer/BioNTech
+France,1/15/2021,43961,Pfizer/BioNTech
+France,1/16/2021,45435,Pfizer/BioNTech
+France,1/17/2021,45018,Pfizer/BioNTech
+France,1/18/2021,48789,Pfizer/BioNTech
+France,1/19/2021,56547,Pfizer/BioNTech
+France,1/20/2021,63659,Pfizer/BioNTech
+France,1/21/2021,72193,Pfizer/BioNTech
+France,1/22/2021,82058,Pfizer/BioNTech
+France,1/23/2021,85096,Pfizer/BioNTech
+France,1/24/2021,86392,Pfizer/BioNTech
+France,1/25/2021,87584,Pfizer/BioNTech
+Germany,12/27/2020,,"Moderna, Pfizer/BioNTech"
+Germany,12/28/2020,19721,"Moderna, Pfizer/BioNTech"
+Germany,12/29/2020,31436,"Moderna, Pfizer/BioNTech"
+Germany,12/30/2020,40119,"Moderna, Pfizer/BioNTech"
+Germany,12/31/2020,39570,"Moderna, Pfizer/BioNTech"
+Germany,1/1/2021,37778,"Moderna, Pfizer/BioNTech"
+Germany,1/2/2021,38986,"Moderna, Pfizer/BioNTech"
+Germany,1/3/2021,36924,"Moderna, Pfizer/BioNTech"
+Germany,1/4/2021,41060,"Moderna, Pfizer/BioNTech"
+Germany,1/5/2021,42191,"Moderna, Pfizer/BioNTech"
+Germany,1/6/2021,42015,"Moderna, Pfizer/BioNTech"
+Germany,1/7/2021,44865,"Moderna, Pfizer/BioNTech"
+Germany,1/8/2021,48794,"Moderna, Pfizer/BioNTech"
+Germany,1/9/2021,50053,"Moderna, Pfizer/BioNTech"
+Germany,1/10/2021,51184,"Moderna, Pfizer/BioNTech"
+Germany,1/11/2021,53647,"Moderna, Pfizer/BioNTech"
+Germany,1/12/2021,57811,"Moderna, Pfizer/BioNTech"
+Germany,1/13/2021,63158,"Moderna, Pfizer/BioNTech"
+Germany,1/14/2021,69184,"Moderna, Pfizer/BioNTech"
+Germany,1/15/2021,73836,"Moderna, Pfizer/BioNTech"
+Germany,1/16/2021,73987,"Moderna, Pfizer/BioNTech"
+Germany,1/17/2021,75782,"Moderna, Pfizer/BioNTech"
+Germany,1/18/2021,76079,"Moderna, Pfizer/BioNTech"
+Germany,1/19/2021,76635,"Moderna, Pfizer/BioNTech"
+Germany,1/20/2021,80136,"Moderna, Pfizer/BioNTech"
+Germany,1/21/2021,78281,"Moderna, Pfizer/BioNTech"
+Germany,1/22/2021,80900,"Moderna, Pfizer/BioNTech"
+Germany,1/23/2021,85088,"Moderna, Pfizer/BioNTech"
+Germany,1/24/2021,87377,"Moderna, Pfizer/BioNTech"
+Gibraltar,1/10/2021,,Pfizer/BioNTech
+Gibraltar,1/11/2021,1025,Pfizer/BioNTech
+Gibraltar,1/12/2021,1040,Pfizer/BioNTech
+Gibraltar,1/13/2021,986,Pfizer/BioNTech
+Gibraltar,1/14/2021,959,Pfizer/BioNTech
+Gibraltar,1/15/2021,943,Pfizer/BioNTech
+Gibraltar,1/16/2021,904,Pfizer/BioNTech
+Gibraltar,1/17/2021,775,Pfizer/BioNTech
+Gibraltar,1/18/2021,713,Pfizer/BioNTech
+Gibraltar,1/19/2021,645,Pfizer/BioNTech
+Gibraltar,1/20/2021,520,Pfizer/BioNTech
+Gibraltar,1/21/2021,527,Pfizer/BioNTech
+Gibraltar,1/22/2021,535,Pfizer/BioNTech
+Gibraltar,1/23/2021,566,Pfizer/BioNTech
+Gibraltar,1/24/2021,642,Pfizer/BioNTech
+Greece,12/28/2020,,Pfizer/BioNTech
+Greece,12/29/2020,670,Pfizer/BioNTech
+Greece,12/30/2020,662,Pfizer/BioNTech
+Greece,12/31/2020,642,Pfizer/BioNTech
+Greece,1/1/2021,551,Pfizer/BioNTech
+Greece,1/2/2021,549,Pfizer/BioNTech
+Greece,1/3/2021,576,Pfizer/BioNTech
+Greece,1/4/2021,1370,Pfizer/BioNTech
+Greece,1/5/2021,2168,Pfizer/BioNTech
+Greece,1/6/2021,2680,Pfizer/BioNTech
+Greece,1/7/2021,3385,Pfizer/BioNTech
+Greece,1/8/2021,4599,Pfizer/BioNTech
+Greece,1/9/2021,5290,Pfizer/BioNTech
+Greece,1/10/2021,5748,Pfizer/BioNTech
+Greece,1/11/2021,5667,Pfizer/BioNTech
+Greece,1/12/2021,5709,Pfizer/BioNTech
+Greece,1/13/2021,6308,Pfizer/BioNTech
+Greece,1/14/2021,6384,Pfizer/BioNTech
+Greece,1/15/2021,5784,Pfizer/BioNTech
+Greece,1/16/2021,5654,Pfizer/BioNTech
+Greece,1/17/2021,5486,Pfizer/BioNTech
+Greece,1/18/2021,5083,Pfizer/BioNTech
+Greece,1/19/2021,5283,Pfizer/BioNTech
+Greece,1/20/2021,6102,Pfizer/BioNTech
+Greece,1/21/2021,7522,Pfizer/BioNTech
+Greece,1/22/2021,9371,Pfizer/BioNTech
+Greece,1/23/2021,11092,Pfizer/BioNTech
+Greece,1/24/2021,12128,Pfizer/BioNTech
+Greece,1/25/2021,13165,Pfizer/BioNTech
+Hungary,12/28/2020,,Pfizer/BioNTech
+Hungary,12/29/2020,1367,Pfizer/BioNTech
+Hungary,12/30/2020,1348,Pfizer/BioNTech
+Hungary,12/31/2020,1339,Pfizer/BioNTech
+Hungary,1/1/2021,1578,Pfizer/BioNTech
+Hungary,1/2/2021,1722,Pfizer/BioNTech
+Hungary,1/3/2021,1818,Pfizer/BioNTech
+Hungary,1/4/2021,1987,Pfizer/BioNTech
+Hungary,1/5/2021,2648,Pfizer/BioNTech
+Hungary,1/6/2021,3959,Pfizer/BioNTech
+Hungary,1/7/2021,5348,Pfizer/BioNTech
+Hungary,1/8/2021,6375,Pfizer/BioNTech
+Hungary,1/9/2021,7402,Pfizer/BioNTech
+Hungary,1/10/2021,8429,Pfizer/BioNTech
+Hungary,1/11/2021,9083,Pfizer/BioNTech
+Hungary,1/12/2021,9418,Pfizer/BioNTech
+Hungary,1/13/2021,9229,Pfizer/BioNTech
+Hungary,1/14/2021,9026,Pfizer/BioNTech
+Hungary,1/15/2021,8688,Pfizer/BioNTech
+Hungary,1/16/2021,8347,Pfizer/BioNTech
+Hungary,1/17/2021,7455,Pfizer/BioNTech
+Hungary,1/18/2021,7536,Pfizer/BioNTech
+Hungary,1/19/2021,6618,Pfizer/BioNTech
+Hungary,1/20/2021,6069,Pfizer/BioNTech
+Hungary,1/21/2021,5581,Pfizer/BioNTech
+Hungary,1/22/2021,5326,Pfizer/BioNTech
+Hungary,1/23/2021,4778,Pfizer/BioNTech
+Hungary,1/24/2021,4701,Pfizer/BioNTech
+Iceland,12/30/2020,,"Moderna, Pfizer/BioNTech"
+Iceland,12/31/2020,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/1/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/2/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/3/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/4/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/5/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/6/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/7/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/8/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/9/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/10/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/11/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/12/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/13/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/14/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/15/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/16/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/17/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/18/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/19/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/20/2021,63,"Moderna, Pfizer/BioNTech"
+Iceland,1/21/2021,312,"Moderna, Pfizer/BioNTech"
+Iceland,1/22/2021,560,"Moderna, Pfizer/BioNTech"
+Iceland,1/23/2021,809,"Moderna, Pfizer/BioNTech"
+Iceland,1/24/2021,1057,"Moderna, Pfizer/BioNTech"
+Iceland,1/25/2021,1306,"Moderna, Pfizer/BioNTech"
+India,1/15/2021,,"Covaxin, Covishield"
+India,1/16/2021,191181,"Covaxin, Covishield"
+India,1/17/2021,112150,"Covaxin, Covishield"
+India,1/18/2021,151350,"Covaxin, Covishield"
+India,1/19/2021,168709,"Covaxin, Covishield"
+India,1/20/2021,161297,"Covaxin, Covishield"
+India,1/21/2021,173922,"Covaxin, Covishield"
+India,1/22/2021,198656,"Covaxin, Covishield"
+India,1/23/2021,198717,"Covaxin, Covishield"
+India,1/24/2021,198743,"Covaxin, Covishield"
+India,1/25/2021,224251,"Covaxin, Covishield"
+Indonesia,1/12/2021,,Sinovac
+Indonesia,1/13/2021,13200,Sinovac
+Indonesia,1/14/2021,13200,Sinovac
+Indonesia,1/15/2021,13200,Sinovac
+Indonesia,1/16/2021,13200,Sinovac
+Indonesia,1/17/2021,13200,Sinovac
+Indonesia,1/18/2021,13200,Sinovac
+Indonesia,1/19/2021,13200,Sinovac
+Indonesia,1/20/2021,13200,Sinovac
+Indonesia,1/21/2021,13200,Sinovac
+Indonesia,1/22/2021,13200,Sinovac
+Indonesia,1/23/2021,12546,Sinovac
+Indonesia,1/24/2021,11892,Sinovac
+Indonesia,1/25/2021,11823,Sinovac
+Ireland,12/31/2020,,Pfizer/BioNTech
+Ireland,1/1/2021,550,Pfizer/BioNTech
+Ireland,1/2/2021,550,Pfizer/BioNTech
+Ireland,1/3/2021,550,Pfizer/BioNTech
+Ireland,1/4/2021,550,Pfizer/BioNTech
+Ireland,1/5/2021,1194,Pfizer/BioNTech
+Ireland,1/6/2021,1624,Pfizer/BioNTech
+Ireland,1/7/2021,1931,Pfizer/BioNTech
+Ireland,1/8/2021,3028,Pfizer/BioNTech
+Ireland,1/9/2021,4124,Pfizer/BioNTech
+Ireland,1/10/2021,5221,Pfizer/BioNTech
+Ireland,1/11/2021,6919,Pfizer/BioNTech
+Ireland,1/12/2021,8157,Pfizer/BioNTech
+Ireland,1/13/2021,9394,Pfizer/BioNTech
+Ireland,1/14/2021,9452,Pfizer/BioNTech
+Ireland,1/15/2021,8873,Pfizer/BioNTech
+Ireland,1/16/2021,8293,Pfizer/BioNTech
+Ireland,1/17/2021,7714,Pfizer/BioNTech
+Ireland,1/18/2021,7267,Pfizer/BioNTech
+Ireland,1/19/2021,6819,Pfizer/BioNTech
+Ireland,1/20/2021,6371,Pfizer/BioNTech
+Ireland,1/21/2021,6528,Pfizer/BioNTech
+Ireland,1/22/2021,6686,Pfizer/BioNTech
+Ireland,1/23/2021,6843,Pfizer/BioNTech
+Ireland,1/24/2021,7000,Pfizer/BioNTech
+Isle of Man,1/21/2021,,Pfizer/BioNTech
+Isle of Man,1/22/2021,90,Pfizer/BioNTech
+Isle of Man,1/23/2021,138,Pfizer/BioNTech
+Isle of Man,1/24/2021,155,Pfizer/BioNTech
+Isle of Man,1/25/2021,163,Pfizer/BioNTech
+Israel,12/19/2020,,"Moderna, Pfizer/BioNTech"
+Israel,12/20/2020,6887,"Moderna, Pfizer/BioNTech"
+Israel,12/21/2020,14690,"Moderna, Pfizer/BioNTech"
+Israel,12/22/2020,23477,"Moderna, Pfizer/BioNTech"
+Israel,12/23/2020,32331,"Moderna, Pfizer/BioNTech"
+Israel,12/24/2020,39926,"Moderna, Pfizer/BioNTech"
+Israel,12/25/2020,39552,"Moderna, Pfizer/BioNTech"
+Israel,12/26/2020,38469,"Moderna, Pfizer/BioNTech"
+Israel,12/27/2020,51884,"Moderna, Pfizer/BioNTech"
+Israel,12/28/2020,67094,"Moderna, Pfizer/BioNTech"
+Israel,12/29/2020,82835,"Moderna, Pfizer/BioNTech"
+Israel,12/30/2020,95621,"Moderna, Pfizer/BioNTech"
+Israel,12/31/2020,107654,"Moderna, Pfizer/BioNTech"
+Israel,1/1/2021,112314,"Moderna, Pfizer/BioNTech"
+Israel,1/2/2021,117846,"Moderna, Pfizer/BioNTech"
+Israel,1/3/2021,124170,"Moderna, Pfizer/BioNTech"
+Israel,1/4/2021,125626,"Moderna, Pfizer/BioNTech"
+Israel,1/5/2021,121500,"Moderna, Pfizer/BioNTech"
+Israel,1/6/2021,114634,"Moderna, Pfizer/BioNTech"
+Israel,1/7/2021,108735,"Moderna, Pfizer/BioNTech"
+Israel,1/8/2021,108004,"Moderna, Pfizer/BioNTech"
+Israel,1/9/2021,104169,"Moderna, Pfizer/BioNTech"
+Israel,1/10/2021,89553,"Moderna, Pfizer/BioNTech"
+Israel,1/11/2021,75289,"Moderna, Pfizer/BioNTech"
+Israel,1/12/2021,66167,"Moderna, Pfizer/BioNTech"
+Israel,1/13/2021,67059,"Moderna, Pfizer/BioNTech"
+Israel,1/14/2021,68432,"Moderna, Pfizer/BioNTech"
+Israel,1/15/2021,68475,"Moderna, Pfizer/BioNTech"
+Israel,1/16/2021,70010,"Moderna, Pfizer/BioNTech"
+Israel,1/17/2021,85359,"Moderna, Pfizer/BioNTech"
+Israel,1/18/2021,106360,"Moderna, Pfizer/BioNTech"
+Israel,1/19/2021,127524,"Moderna, Pfizer/BioNTech"
+Israel,1/20/2021,143169,"Moderna, Pfizer/BioNTech"
+Israel,1/21/2021,158364,"Moderna, Pfizer/BioNTech"
+Israel,1/22/2021,164426,"Moderna, Pfizer/BioNTech"
+Israel,1/23/2021,169880,"Moderna, Pfizer/BioNTech"
+Israel,1/24/2021,177883,"Moderna, Pfizer/BioNTech"
+Israel,1/25/2021,176343,"Moderna, Pfizer/BioNTech"
+Italy,12/27/2020,,Pfizer/BioNTech
+Italy,12/28/2020,950,Pfizer/BioNTech
+Italy,12/29/2020,926,Pfizer/BioNTech
+Italy,12/30/2020,2147,Pfizer/BioNTech
+Italy,12/31/2020,7848,Pfizer/BioNTech
+Italy,1/1/2021,8456,Pfizer/BioNTech
+Italy,1/2/2021,13319,Pfizer/BioNTech
+Italy,1/3/2021,16365,Pfizer/BioNTech
+Italy,1/4/2021,25812,Pfizer/BioNTech
+Italy,1/5/2021,36875,Pfizer/BioNTech
+Italy,1/6/2021,45417,Pfizer/BioNTech
+Italy,1/7/2021,54829,Pfizer/BioNTech
+Italy,1/8/2021,66485,Pfizer/BioNTech
+Italy,1/9/2021,73108,Pfizer/BioNTech
+Italy,1/10/2021,76632,Pfizer/BioNTech
+Italy,1/11/2021,78150,Pfizer/BioNTech
+Italy,1/12/2021,78193,Pfizer/BioNTech
+Italy,1/13/2021,81858,Pfizer/BioNTech
+Italy,1/14/2021,81516,Pfizer/BioNTech
+Italy,1/15/2021,80095,Pfizer/BioNTech
+Italy,1/16/2021,76658,Pfizer/BioNTech
+Italy,1/17/2021,73130,Pfizer/BioNTech
+Italy,1/18/2021,67599,Pfizer/BioNTech
+Italy,1/19/2021,60503,Pfizer/BioNTech
+Italy,1/20/2021,51507,Pfizer/BioNTech
+Italy,1/21/2021,43534,Pfizer/BioNTech
+Italy,1/22/2021,35131,Pfizer/BioNTech
+Italy,1/23/2021,31852,Pfizer/BioNTech
+Italy,1/24/2021,31537,Pfizer/BioNTech
+Italy,1/25/2021,32241,Pfizer/BioNTech
+Kuwait,12/28/2020,,Pfizer/BioNTech
+Latvia,12/28/2020,,Pfizer/BioNTech
+Latvia,12/29/2020,877,Pfizer/BioNTech
+Latvia,12/30/2020,832,Pfizer/BioNTech
+Latvia,12/31/2020,602,Pfizer/BioNTech
+Latvia,1/1/2021,486,Pfizer/BioNTech
+Latvia,1/2/2021,417,Pfizer/BioNTech
+Latvia,1/3/2021,371,Pfizer/BioNTech
+Latvia,1/4/2021,338,Pfizer/BioNTech
+Latvia,1/5/2021,339,Pfizer/BioNTech
+Latvia,1/6/2021,338,Pfizer/BioNTech
+Latvia,1/7/2021,433,Pfizer/BioNTech
+Latvia,1/8/2021,542,Pfizer/BioNTech
+Latvia,1/9/2021,565,Pfizer/BioNTech
+Latvia,1/10/2021,592,Pfizer/BioNTech
+Latvia,1/11/2021,767,Pfizer/BioNTech
+Latvia,1/12/2021,872,Pfizer/BioNTech
+Latvia,1/13/2021,976,Pfizer/BioNTech
+Latvia,1/14/2021,1120,Pfizer/BioNTech
+Latvia,1/15/2021,1258,Pfizer/BioNTech
+Latvia,1/16/2021,1309,Pfizer/BioNTech
+Latvia,1/17/2021,1279,Pfizer/BioNTech
+Latvia,1/18/2021,1204,Pfizer/BioNTech
+Latvia,1/19/2021,1098,Pfizer/BioNTech
+Latvia,1/20/2021,993,Pfizer/BioNTech
+Latvia,1/21/2021,773,Pfizer/BioNTech
+Latvia,1/22/2021,537,Pfizer/BioNTech
+Latvia,1/23/2021,460,Pfizer/BioNTech
+Latvia,1/24/2021,491,Pfizer/BioNTech
+Latvia,1/25/2021,418,Pfizer/BioNTech
+Lithuania,12/25/2020,,"Moderna, Pfizer/BioNTech"
+Lithuania,12/26/2020,1208,"Moderna, Pfizer/BioNTech"
+Lithuania,12/27/2020,1208,"Moderna, Pfizer/BioNTech"
+Lithuania,12/28/2020,1734,"Moderna, Pfizer/BioNTech"
+Lithuania,12/29/2020,2047,"Moderna, Pfizer/BioNTech"
+Lithuania,12/30/2020,1944,"Moderna, Pfizer/BioNTech"
+Lithuania,12/31/2020,1624,"Moderna, Pfizer/BioNTech"
+Lithuania,1/1/2021,1410,"Moderna, Pfizer/BioNTech"
+Lithuania,1/2/2021,1255,"Moderna, Pfizer/BioNTech"
+Lithuania,1/3/2021,1100,"Moderna, Pfizer/BioNTech"
+Lithuania,1/4/2021,720,"Moderna, Pfizer/BioNTech"
+Lithuania,1/5/2021,311,"Moderna, Pfizer/BioNTech"
+Lithuania,1/6/2021,592,"Moderna, Pfizer/BioNTech"
+Lithuania,1/7/2021,1180,"Moderna, Pfizer/BioNTech"
+Lithuania,1/8/2021,1897,"Moderna, Pfizer/BioNTech"
+Lithuania,1/9/2021,1923,"Moderna, Pfizer/BioNTech"
+Lithuania,1/10/2021,1905,"Moderna, Pfizer/BioNTech"
+Lithuania,1/11/2021,2201,"Moderna, Pfizer/BioNTech"
+Lithuania,1/12/2021,2479,"Moderna, Pfizer/BioNTech"
+Lithuania,1/13/2021,2843,"Moderna, Pfizer/BioNTech"
+Lithuania,1/14/2021,3476,"Moderna, Pfizer/BioNTech"
+Lithuania,1/15/2021,3765,"Moderna, Pfizer/BioNTech"
+Lithuania,1/16/2021,3877,"Moderna, Pfizer/BioNTech"
+Lithuania,1/17/2021,4038,"Moderna, Pfizer/BioNTech"
+Lithuania,1/18/2021,4363,"Moderna, Pfizer/BioNTech"
+Lithuania,1/19/2021,4960,"Moderna, Pfizer/BioNTech"
+Lithuania,1/20/2021,4587,"Moderna, Pfizer/BioNTech"
+Lithuania,1/21/2021,3564,"Moderna, Pfizer/BioNTech"
+Lithuania,1/22/2021,2581,"Moderna, Pfizer/BioNTech"
+Lithuania,1/23/2021,2427,"Moderna, Pfizer/BioNTech"
+Lithuania,1/24/2021,2268,"Moderna, Pfizer/BioNTech"
+Lithuania,1/25/2021,1633,"Moderna, Pfizer/BioNTech"
+Luxembourg,12/30/2020,,Pfizer/BioNTech
+Luxembourg,12/31/2020,62,Pfizer/BioNTech
+Luxembourg,1/1/2021,62,Pfizer/BioNTech
+Luxembourg,1/2/2021,62,Pfizer/BioNTech
+Luxembourg,1/3/2021,62,Pfizer/BioNTech
+Luxembourg,1/4/2021,62,Pfizer/BioNTech
+Luxembourg,1/5/2021,62,Pfizer/BioNTech
+Luxembourg,1/6/2021,62,Pfizer/BioNTech
+Luxembourg,1/7/2021,62,Pfizer/BioNTech
+Luxembourg,1/8/2021,62,Pfizer/BioNTech
+Luxembourg,1/9/2021,62,Pfizer/BioNTech
+Luxembourg,1/10/2021,62,Pfizer/BioNTech
+Luxembourg,1/11/2021,62,Pfizer/BioNTech
+Luxembourg,1/12/2021,114,Pfizer/BioNTech
+Luxembourg,1/13/2021,177,Pfizer/BioNTech
+Luxembourg,1/14/2021,220,Pfizer/BioNTech
+Luxembourg,1/15/2021,236,Pfizer/BioNTech
+Luxembourg,1/16/2021,252,Pfizer/BioNTech
+Luxembourg,1/17/2021,268,Pfizer/BioNTech
+Luxembourg,1/18/2021,375,Pfizer/BioNTech
+Luxembourg,1/19/2021,417,Pfizer/BioNTech
+Luxembourg,1/20/2021,475,Pfizer/BioNTech
+Luxembourg,1/21/2021,523,Pfizer/BioNTech
+Luxembourg,1/22/2021,537,Pfizer/BioNTech
+Luxembourg,1/23/2021,551,Pfizer/BioNTech
+Luxembourg,1/24/2021,565,Pfizer/BioNTech
+Malta,12/28/2020,,Pfizer/BioNTech
+Malta,12/29/2020,259,Pfizer/BioNTech
+Malta,12/30/2020,259,Pfizer/BioNTech
+Malta,12/31/2020,259,Pfizer/BioNTech
+Malta,1/1/2021,259,Pfizer/BioNTech
+Malta,1/2/2021,259,Pfizer/BioNTech
+Malta,1/3/2021,259,Pfizer/BioNTech
+Malta,1/4/2021,259,Pfizer/BioNTech
+Malta,1/5/2021,281,Pfizer/BioNTech
+Malta,1/6/2021,304,Pfizer/BioNTech
+Malta,1/7/2021,327,Pfizer/BioNTech
+Malta,1/8/2021,350,Pfizer/BioNTech
+Malta,1/9/2021,373,Pfizer/BioNTech
+Malta,1/10/2021,396,Pfizer/BioNTech
+Malta,1/11/2021,419,Pfizer/BioNTech
+Malta,1/12/2021,524,Pfizer/BioNTech
+Malta,1/13/2021,629,Pfizer/BioNTech
+Malta,1/14/2021,735,Pfizer/BioNTech
+Malta,1/15/2021,840,Pfizer/BioNTech
+Malta,1/16/2021,938,Pfizer/BioNTech
+Malta,1/17/2021,1036,Pfizer/BioNTech
+Malta,1/18/2021,1162,Pfizer/BioNTech
+Malta,1/19/2021,1178,Pfizer/BioNTech
+Malta,1/20/2021,1162,Pfizer/BioNTech
+Malta,1/21/2021,1170,Pfizer/BioNTech
+Malta,1/22/2021,1182,Pfizer/BioNTech
+Malta,1/23/2021,1190,Pfizer/BioNTech
+Malta,1/24/2021,1182,Pfizer/BioNTech
+Mexico,12/24/2020,,Pfizer/BioNTech
+Mexico,12/25/2020,1300,Pfizer/BioNTech
+Mexico,12/26/2020,1300,Pfizer/BioNTech
+Mexico,12/27/2020,1300,Pfizer/BioNTech
+Mexico,12/28/2020,1664,Pfizer/BioNTech
+Mexico,12/29/2020,3121,Pfizer/BioNTech
+Mexico,12/30/2020,3679,Pfizer/BioNTech
+Mexico,12/31/2020,3695,Pfizer/BioNTech
+Mexico,1/1/2021,4051,Pfizer/BioNTech
+Mexico,1/2/2021,4407,Pfizer/BioNTech
+Mexico,1/3/2021,4763,Pfizer/BioNTech
+Mexico,1/4/2021,4912,Pfizer/BioNTech
+Mexico,1/5/2021,4244,Pfizer/BioNTech
+Mexico,1/6/2021,4027,Pfizer/BioNTech
+Mexico,1/7/2021,4230,Pfizer/BioNTech
+Mexico,1/8/2021,4984,Pfizer/BioNTech
+Mexico,1/9/2021,5488,Pfizer/BioNTech
+Mexico,1/10/2021,5876,Pfizer/BioNTech
+Mexico,1/11/2021,6157,Pfizer/BioNTech
+Mexico,1/12/2021,6378,Pfizer/BioNTech
+Mexico,1/13/2021,19912,Pfizer/BioNTech
+Mexico,1/14/2021,38797,Pfizer/BioNTech
+Mexico,1/15/2021,49987,Pfizer/BioNTech
+Mexico,1/16/2021,55493,Pfizer/BioNTech
+Mexico,1/17/2021,55835,Pfizer/BioNTech
+Mexico,1/18/2021,57924,Pfizer/BioNTech
+Mexico,1/19/2021,57892,Pfizer/BioNTech
+Mexico,1/20/2021,44066,Pfizer/BioNTech
+Mexico,1/21/2021,31765,Pfizer/BioNTech
+Mexico,1/22/2021,28205,Pfizer/BioNTech
+Mexico,1/23/2021,22217,Pfizer/BioNTech
+Mexico,1/24/2021,22498,Pfizer/BioNTech
+Mexico,1/25/2021,21797,Pfizer/BioNTech
+Netherlands,1/6/2021,,"Moderna, Pfizer/BioNTech"
+Netherlands,1/7/2021,9000,"Moderna, Pfizer/BioNTech"
+Netherlands,1/8/2021,10500,"Moderna, Pfizer/BioNTech"
+Netherlands,1/9/2021,8000,"Moderna, Pfizer/BioNTech"
+Netherlands,1/10/2021,7000,"Moderna, Pfizer/BioNTech"
+Netherlands,1/11/2021,5900,"Moderna, Pfizer/BioNTech"
+Netherlands,1/12/2021,6500,"Moderna, Pfizer/BioNTech"
+Netherlands,1/13/2021,5857,"Moderna, Pfizer/BioNTech"
+Netherlands,1/14/2021,5143,"Moderna, Pfizer/BioNTech"
+Netherlands,1/15/2021,4000,"Moderna, Pfizer/BioNTech"
+Netherlands,1/16/2021,5143,"Moderna, Pfizer/BioNTech"
+Netherlands,1/17/2021,6143,"Moderna, Pfizer/BioNTech"
+Netherlands,1/18/2021,7024,"Moderna, Pfizer/BioNTech"
+Netherlands,1/19/2021,6762,"Moderna, Pfizer/BioNTech"
+Netherlands,1/20/2021,7571,"Moderna, Pfizer/BioNTech"
+Netherlands,1/21/2021,9500,"Moderna, Pfizer/BioNTech"
+Netherlands,1/22/2021,11429,"Moderna, Pfizer/BioNTech"
+Northern Ireland,12/13/2020,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/14/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/15/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/16/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/17/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/18/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/19/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/20/2020,1778,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/21/2020,1829,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/22/2020,1880,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/23/2020,1931,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/24/2020,1982,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/25/2020,2033,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/26/2020,2084,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/27/2020,2135,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/28/2020,2054,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/29/2020,1972,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/30/2020,1890,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,12/31/2020,1808,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/1/2021,1726,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/2/2021,1645,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/3/2021,1563,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/4/2021,2360,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/5/2021,3157,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/6/2021,3954,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/7/2021,4751,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/8/2021,5548,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/9/2021,6345,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/10/2021,7143,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/11/2021,7197,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/12/2021,7574,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/13/2021,8332,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/14/2021,9044,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/15/2021,8530,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/16/2021,7964,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/17/2021,7826,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/18/2021,7852,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/19/2021,7306,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/20/2021,6404,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/21/2021,5674,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/22/2021,5664,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/23/2021,5396,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Northern Ireland,1/24/2021,5089,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Norway,12/27/2020,,Pfizer/BioNTech
+Norway,12/28/2020,600,Pfizer/BioNTech
+Norway,12/29/2020,834,Pfizer/BioNTech
+Norway,12/30/2020,697,Pfizer/BioNTech
+Norway,12/31/2020,540,Pfizer/BioNTech
+Norway,1/1/2021,434,Pfizer/BioNTech
+Norway,1/2/2021,361,Pfizer/BioNTech
+Norway,1/3/2021,310,Pfizer/BioNTech
+Norway,1/4/2021,224,Pfizer/BioNTech
+Norway,1/5/2021,560,Pfizer/BioNTech
+Norway,1/6/2021,1772,Pfizer/BioNTech
+Norway,1/7/2021,2696,Pfizer/BioNTech
+Norway,1/8/2021,2924,Pfizer/BioNTech
+Norway,1/9/2021,2942,Pfizer/BioNTech
+Norway,1/10/2021,2958,Pfizer/BioNTech
+Norway,1/11/2021,3006,Pfizer/BioNTech
+Norway,1/12/2021,3105,Pfizer/BioNTech
+Norway,1/13/2021,3201,Pfizer/BioNTech
+Norway,1/14/2021,3447,Pfizer/BioNTech
+Norway,1/15/2021,3847,Pfizer/BioNTech
+Norway,1/16/2021,3929,Pfizer/BioNTech
+Norway,1/17/2021,3955,Pfizer/BioNTech
+Norway,1/18/2021,4120,Pfizer/BioNTech
+Norway,1/19/2021,4276,Pfizer/BioNTech
+Norway,1/20/2021,4356,Pfizer/BioNTech
+Norway,1/21/2021,4303,Pfizer/BioNTech
+Norway,1/22/2021,4109,Pfizer/BioNTech
+Norway,1/23/2021,4059,Pfizer/BioNTech
+Norway,1/24/2021,4027,Pfizer/BioNTech
+Oman,12/28/2020,,Pfizer/BioNTech
+Oman,12/29/2020,1646,Pfizer/BioNTech
+Oman,12/30/2020,1663,Pfizer/BioNTech
+Oman,12/31/2020,1600,Pfizer/BioNTech
+Oman,1/1/2021,1289,Pfizer/BioNTech
+Oman,1/2/2021,1103,Pfizer/BioNTech
+Oman,1/3/2021,1185,Pfizer/BioNTech
+Oman,1/4/2021,1287,Pfizer/BioNTech
+Oman,1/5/2021,1341,Pfizer/BioNTech
+Oman,1/6/2021,1280,Pfizer/BioNTech
+Oman,1/7/2021,1199,Pfizer/BioNTech
+Oman,1/8/2021,1158,Pfizer/BioNTech
+Oman,1/9/2021,1113,Pfizer/BioNTech
+Oman,1/10/2021,1012,Pfizer/BioNTech
+Oman,1/11/2021,1080,Pfizer/BioNTech
+Oman,1/12/2021,1128,Pfizer/BioNTech
+Oman,1/13/2021,1249,Pfizer/BioNTech
+Oman,1/14/2021,1328,Pfizer/BioNTech
+Oman,1/15/2021,1358,Pfizer/BioNTech
+Oman,1/16/2021,1393,Pfizer/BioNTech
+Oman,1/17/2021,1363,Pfizer/BioNTech
+Oman,1/18/2021,1210,Pfizer/BioNTech
+Oman,1/19/2021,1057,Pfizer/BioNTech
+Oman,1/20/2021,971,Pfizer/BioNTech
+Oman,1/21/2021,817,Pfizer/BioNTech
+Oman,1/22/2021,830,Pfizer/BioNTech
+Oman,1/23/2021,843,Pfizer/BioNTech
+Oman,1/24/2021,1046,Pfizer/BioNTech
+Panama,1/19/2021,,Pfizer/BioNTech
+Panama,1/20/2021,6,Pfizer/BioNTech
+Panama,1/21/2021,1364,Pfizer/BioNTech
+Panama,1/22/2021,1694,Pfizer/BioNTech
+Panama,1/23/2021,1398,Pfizer/BioNTech
+Panama,1/24/2021,1284,Pfizer/BioNTech
+Poland,12/28/2020,,Pfizer/BioNTech
+Poland,12/29/2020,4300,Pfizer/BioNTech
+Poland,12/30/2020,17150,Pfizer/BioNTech
+Poland,12/31/2020,15200,Pfizer/BioNTech
+Poland,1/1/2021,11749,Pfizer/BioNTech
+Poland,1/2/2021,9678,Pfizer/BioNTech
+Poland,1/3/2021,8139,Pfizer/BioNTech
+Poland,1/4/2021,12889,Pfizer/BioNTech
+Poland,1/5/2021,19132,Pfizer/BioNTech
+Poland,1/6/2021,17723,Pfizer/BioNTech
+Poland,1/7/2021,20194,Pfizer/BioNTech
+Poland,1/8/2021,21399,Pfizer/BioNTech
+Poland,1/9/2021,21376,Pfizer/BioNTech
+Poland,1/10/2021,21746,Pfizer/BioNTech
+Poland,1/11/2021,23659,Pfizer/BioNTech
+Poland,1/12/2021,24199,Pfizer/BioNTech
+Poland,1/13/2021,29836,Pfizer/BioNTech
+Poland,1/14/2021,31646,Pfizer/BioNTech
+Poland,1/15/2021,34025,Pfizer/BioNTech
+Poland,1/16/2021,36754,Pfizer/BioNTech
+Poland,1/17/2021,38059,Pfizer/BioNTech
+Poland,1/18/2021,33904,Pfizer/BioNTech
+Poland,1/19/2021,33087,Pfizer/BioNTech
+Poland,1/20/2021,31796,Pfizer/BioNTech
+Poland,1/21/2021,33503,Pfizer/BioNTech
+Poland,1/22/2021,35331,Pfizer/BioNTech
+Poland,1/23/2021,34837,Pfizer/BioNTech
+Poland,1/24/2021,34001,Pfizer/BioNTech
+Portugal,12/27/2020,,Pfizer/BioNTech
+Portugal,12/28/2020,2791,Pfizer/BioNTech
+Portugal,12/29/2020,7702,Pfizer/BioNTech
+Portugal,12/30/2020,8527,Pfizer/BioNTech
+Portugal,12/31/2020,6946,Pfizer/BioNTech
+Portugal,1/1/2021,5557,Pfizer/BioNTech
+Portugal,1/2/2021,4631,Pfizer/BioNTech
+Portugal,1/3/2021,3970,Pfizer/BioNTech
+Portugal,1/4/2021,3702,Pfizer/BioNTech
+Portugal,1/5/2021,3724,Pfizer/BioNTech
+Portugal,1/6/2021,4416,Pfizer/BioNTech
+Portugal,1/7/2021,5572,Pfizer/BioNTech
+Portugal,1/8/2021,5929,Pfizer/BioNTech
+Portugal,1/9/2021,5943,Pfizer/BioNTech
+Portugal,1/10/2021,5949,Pfizer/BioNTech
+Portugal,1/11/2021,5944,Pfizer/BioNTech
+Portugal,1/12/2021,5676,Pfizer/BioNTech
+Portugal,1/13/2021,5501,Pfizer/BioNTech
+Portugal,1/14/2021,5623,Pfizer/BioNTech
+Portugal,1/15/2021,6335,Pfizer/BioNTech
+Portugal,1/16/2021,6540,Pfizer/BioNTech
+Portugal,1/17/2021,6701,Pfizer/BioNTech
+Portugal,1/18/2021,7061,Pfizer/BioNTech
+Portugal,1/19/2021,8896,Pfizer/BioNTech
+Portugal,1/20/2021,11058,Pfizer/BioNTech
+Portugal,1/21/2021,14194,Pfizer/BioNTech
+Portugal,1/22/2021,16876,Pfizer/BioNTech
+Portugal,1/23/2021,18770,Pfizer/BioNTech
+Portugal,1/24/2021,19200,Pfizer/BioNTech
+Romania,12/28/2020,,Pfizer/BioNTech
+Romania,12/29/2020,712,Pfizer/BioNTech
+Romania,12/30/2020,1800,Pfizer/BioNTech
+Romania,12/31/2020,2741,Pfizer/BioNTech
+Romania,1/1/2021,2398,Pfizer/BioNTech
+Romania,1/2/2021,2235,Pfizer/BioNTech
+Romania,1/3/2021,1922,Pfizer/BioNTech
+Romania,1/4/2021,3349,Pfizer/BioNTech
+Romania,1/5/2021,5547,Pfizer/BioNTech
+Romania,1/6/2021,7555,Pfizer/BioNTech
+Romania,1/7/2021,9444,Pfizer/BioNTech
+Romania,1/8/2021,11579,Pfizer/BioNTech
+Romania,1/9/2021,12723,Pfizer/BioNTech
+Romania,1/10/2021,13528,Pfizer/BioNTech
+Romania,1/11/2021,14240,Pfizer/BioNTech
+Romania,1/12/2021,14120,Pfizer/BioNTech
+Romania,1/13/2021,13673,Pfizer/BioNTech
+Romania,1/14/2021,13030,Pfizer/BioNTech
+Romania,1/15/2021,12995,Pfizer/BioNTech
+Romania,1/16/2021,13398,Pfizer/BioNTech
+Romania,1/17/2021,13824,Pfizer/BioNTech
+Romania,1/18/2021,15721,Pfizer/BioNTech
+Romania,1/19/2021,18514,Pfizer/BioNTech
+Romania,1/20/2021,22017,Pfizer/BioNTech
+Romania,1/21/2021,25783,Pfizer/BioNTech
+Romania,1/22/2021,28895,Pfizer/BioNTech
+Romania,1/23/2021,31828,Pfizer/BioNTech
+Romania,1/24/2021,34461,Pfizer/BioNTech
+Romania,1/25/2021,35627,Pfizer/BioNTech
+Russia,12/15/2020,,Sputnik V
+Russia,12/16/2020,3357,Sputnik V
+Russia,12/17/2020,3357,Sputnik V
+Russia,12/18/2020,3357,Sputnik V
+Russia,12/19/2020,3357,Sputnik V
+Russia,12/20/2020,3357,Sputnik V
+Russia,12/21/2020,3357,Sputnik V
+Russia,12/22/2020,3357,Sputnik V
+Russia,12/23/2020,12592,Sputnik V
+Russia,12/24/2020,21827,Sputnik V
+Russia,12/25/2020,31061,Sputnik V
+Russia,12/26/2020,40296,Sputnik V
+Russia,12/27/2020,49531,Sputnik V
+Russia,12/28/2020,58765,Sputnik V
+Russia,12/29/2020,68000,Sputnik V
+Russia,12/30/2020,68000,Sputnik V
+Russia,12/31/2020,68000,Sputnik V
+Russia,1/1/2021,68000,Sputnik V
+Russia,1/2/2021,68000,Sputnik V
+Russia,1/3/2021,60883,Sputnik V
+Russia,1/4/2021,53766,Sputnik V
+Russia,1/5/2021,46649,Sputnik V
+Russia,1/6/2021,39532,Sputnik V
+Russia,1/7/2021,32416,Sputnik V
+Russia,1/8/2021,25299,Sputnik V
+Russia,1/9/2021,18182,Sputnik V
+Russia,1/10/2021,18182,Sputnik V
+Russia,1/11/2021,18182,Sputnik V
+Russia,1/12/2021,18182,Sputnik V
+Russia,1/13/2021,18182,Sputnik V
+Saudi Arabia,1/6/2021,,Pfizer/BioNTech
+Saudi Arabia,1/7/2021,37862,Pfizer/BioNTech
+Saudi Arabia,1/8/2021,23990,Pfizer/BioNTech
+Saudi Arabia,1/9/2021,19366,Pfizer/BioNTech
+Saudi Arabia,1/10/2021,17055,Pfizer/BioNTech
+Saudi Arabia,1/11/2021,15667,Pfizer/BioNTech
+Saudi Arabia,1/12/2021,16312,Pfizer/BioNTech
+Saudi Arabia,1/13/2021,16772,Pfizer/BioNTech
+Saudi Arabia,1/14/2021,14153,Pfizer/BioNTech
+Saudi Arabia,1/15/2021,15498,Pfizer/BioNTech
+Saudi Arabia,1/16/2021,16843,Pfizer/BioNTech
+Saudi Arabia,1/17/2021,18187,Pfizer/BioNTech
+Scotland,12/13/2020,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/14/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/15/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/16/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/17/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/18/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/19/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/20/2020,5821,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/21/2020,5690,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/22/2020,5558,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/23/2020,5426,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/24/2020,5295,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/25/2020,5163,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/26/2020,5031,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/27/2020,4899,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/28/2020,4635,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/29/2020,4370,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/30/2020,4105,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,12/31/2020,3841,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/1/2021,3576,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/2/2021,3312,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/3/2021,3047,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/4/2021,3650,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/5/2021,4254,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/6/2021,4858,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/7/2021,5461,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/8/2021,6065,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/9/2021,6668,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/10/2021,7272,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/11/2021,8042,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/12/2021,9311,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/13/2021,10621,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/14/2021,11979,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/15/2021,12869,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/16/2021,13760,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/17/2021,14651,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/18/2021,15667,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/19/2021,17018,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/20/2021,18277,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/21/2021,19282,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/22/2021,20597,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/23/2021,22034,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Scotland,1/24/2021,21750,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Serbia,1/8/2021,,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/9/2021,1150,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/10/2021,1150,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/11/2021,1503,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/12/2021,1680,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/13/2021,1785,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/14/2021,1856,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/15/2021,2221,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/16/2021,2687,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/17/2021,3153,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/18/2021,3468,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/19/2021,3783,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/20/2021,4098,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/21/2021,9528,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/22/2021,13880,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/23/2021,19485,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/24/2021,26632,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Serbia,1/25/2021,31534,"Pfizer/BioNTech, Sinopharm, Sputnik V"
+Seychelles,1/9/2021,,Sinopharm
+Seychelles,1/10/2021,500,Sinopharm
+Seychelles,1/11/2021,500,Sinopharm
+Seychelles,1/12/2021,500,Sinopharm
+Seychelles,1/13/2021,500,Sinopharm
+Seychelles,1/14/2021,600,Sinopharm
+Seychelles,1/15/2021,667,Sinopharm
+Seychelles,1/16/2021,1000,Sinopharm
+Seychelles,1/17/2021,1118,Sinopharm
+Seychelles,1/18/2021,1236,Sinopharm
+Seychelles,1/19/2021,1354,Sinopharm
+Seychelles,1/20/2021,1595,Sinopharm
+Seychelles,1/21/2021,1718,Sinopharm
+Seychelles,1/22/2021,1841,Sinopharm
+Seychelles,1/23/2021,1622,Sinopharm
+Singapore,1/11/2021,,Pfizer/BioNTech
+Singapore,1/12/2021,2800,Pfizer/BioNTech
+Singapore,1/13/2021,4090,Pfizer/BioNTech
+Singapore,1/14/2021,4520,Pfizer/BioNTech
+Singapore,1/15/2021,4735,Pfizer/BioNTech
+Singapore,1/16/2021,4864,Pfizer/BioNTech
+Singapore,1/17/2021,4950,Pfizer/BioNTech
+Singapore,1/18/2021,5011,Pfizer/BioNTech
+Singapore,1/19/2021,5380,Pfizer/BioNTech
+Singapore,1/20/2021,5380,Pfizer/BioNTech
+Singapore,1/21/2021,5380,Pfizer/BioNTech
+Singapore,1/22/2021,5380,Pfizer/BioNTech
+Slovakia,1/4/2021,,Pfizer/BioNTech
+Slovakia,1/5/2021,425,Pfizer/BioNTech
+Slovakia,1/6/2021,3309,Pfizer/BioNTech
+Slovakia,1/7/2021,4544,Pfizer/BioNTech
+Slovakia,1/8/2021,5137,Pfizer/BioNTech
+Slovakia,1/9/2021,4456,Pfizer/BioNTech
+Slovakia,1/10/2021,4221,Pfizer/BioNTech
+Slovakia,1/11/2021,4174,Pfizer/BioNTech
+Slovakia,1/12/2021,5616,Pfizer/BioNTech
+Slovakia,1/13/2021,5661,Pfizer/BioNTech
+Slovakia,1/14/2021,5685,Pfizer/BioNTech
+Slovakia,1/15/2021,5744,Pfizer/BioNTech
+Slovakia,1/16/2021,5669,Pfizer/BioNTech
+Slovakia,1/17/2021,5241,Pfizer/BioNTech
+Slovakia,1/18/2021,5968,Pfizer/BioNTech
+Slovakia,1/19/2021,5473,Pfizer/BioNTech
+Slovakia,1/20/2021,5585,Pfizer/BioNTech
+Slovakia,1/21/2021,5535,Pfizer/BioNTech
+Slovenia,1/3/2021,,Pfizer/BioNTech
+Slovenia,1/4/2021,1270,Pfizer/BioNTech
+Slovenia,1/5/2021,1484,Pfizer/BioNTech
+Slovenia,1/6/2021,2110,Pfizer/BioNTech
+Slovenia,1/7/2021,2601,Pfizer/BioNTech
+Slovenia,1/8/2021,2718,Pfizer/BioNTech
+Slovenia,1/9/2021,2333,Pfizer/BioNTech
+Slovenia,1/10/2021,2087,Pfizer/BioNTech
+Slovenia,1/11/2021,2183,Pfizer/BioNTech
+Slovenia,1/12/2021,2223,Pfizer/BioNTech
+Slovenia,1/13/2021,2471,Pfizer/BioNTech
+Slovenia,1/14/2021,2689,Pfizer/BioNTech
+Slovenia,1/15/2021,3036,Pfizer/BioNTech
+Slovenia,1/16/2021,3073,Pfizer/BioNTech
+Slovenia,1/17/2021,3070,Pfizer/BioNTech
+Slovenia,1/18/2021,2942,Pfizer/BioNTech
+Slovenia,1/19/2021,2772,Pfizer/BioNTech
+Slovenia,1/20/2021,2415,Pfizer/BioNTech
+Slovenia,1/21/2021,2420,Pfizer/BioNTech
+Slovenia,1/22/2021,2009,Pfizer/BioNTech
+Slovenia,1/23/2021,2034,Pfizer/BioNTech
+Slovenia,1/24/2021,1992,Pfizer/BioNTech
+Spain,1/4/2021,,"Moderna, Pfizer/BioNTech"
+Spain,1/5/2021,56505,"Moderna, Pfizer/BioNTech"
+Spain,1/6/2021,45248,"Moderna, Pfizer/BioNTech"
+Spain,1/7/2021,41496,"Moderna, Pfizer/BioNTech"
+Spain,1/8/2021,48786,"Moderna, Pfizer/BioNTech"
+Spain,1/9/2021,47569,"Moderna, Pfizer/BioNTech"
+Spain,1/10/2021,46759,"Moderna, Pfizer/BioNTech"
+Spain,1/11/2021,46180,"Moderna, Pfizer/BioNTech"
+Spain,1/12/2021,49826,"Moderna, Pfizer/BioNTech"
+Spain,1/13/2021,58330,"Moderna, Pfizer/BioNTech"
+Spain,1/14/2021,66980,"Moderna, Pfizer/BioNTech"
+Spain,1/15/2021,70139,"Moderna, Pfizer/BioNTech"
+Spain,1/16/2021,70181,"Moderna, Pfizer/BioNTech"
+Spain,1/17/2021,70223,"Moderna, Pfizer/BioNTech"
+Spain,1/18/2021,70264,"Moderna, Pfizer/BioNTech"
+Spain,1/19/2021,68282,"Moderna, Pfizer/BioNTech"
+Spain,1/20/2021,63471,"Moderna, Pfizer/BioNTech"
+Spain,1/21/2021,61016,"Moderna, Pfizer/BioNTech"
+Spain,1/22/2021,56696,"Moderna, Pfizer/BioNTech"
+Spain,1/23/2021,53971,"Moderna, Pfizer/BioNTech"
+Spain,1/24/2021,51247,"Moderna, Pfizer/BioNTech"
+Spain,1/25/2021,48522,"Moderna, Pfizer/BioNTech"
+Sweden,12/27/2020,,Pfizer/BioNTech
+Sweden,12/28/2020,3859,Pfizer/BioNTech
+Sweden,12/29/2020,3859,Pfizer/BioNTech
+Sweden,12/30/2020,3859,Pfizer/BioNTech
+Sweden,12/31/2020,3859,Pfizer/BioNTech
+Sweden,1/1/2021,3859,Pfizer/BioNTech
+Sweden,1/2/2021,3859,Pfizer/BioNTech
+Sweden,1/3/2021,3859,Pfizer/BioNTech
+Sweden,1/4/2021,4294,Pfizer/BioNTech
+Sweden,1/5/2021,4729,Pfizer/BioNTech
+Sweden,1/6/2021,5165,Pfizer/BioNTech
+Sweden,1/7/2021,5600,Pfizer/BioNTech
+Sweden,1/8/2021,6035,Pfizer/BioNTech
+Sweden,1/9/2021,6470,Pfizer/BioNTech
+Sweden,1/10/2021,6905,Pfizer/BioNTech
+Sweden,1/11/2021,7292,Pfizer/BioNTech
+Sweden,1/12/2021,7680,Pfizer/BioNTech
+Sweden,1/13/2021,8067,Pfizer/BioNTech
+Sweden,1/14/2021,8454,Pfizer/BioNTech
+Sweden,1/15/2021,8841,Pfizer/BioNTech
+Sweden,1/16/2021,9228,Pfizer/BioNTech
+Sweden,1/17/2021,9616,Pfizer/BioNTech
+Switzerland,12/23/2020,,Pfizer/BioNTech
+Switzerland,12/24/2020,3000,Pfizer/BioNTech
+Switzerland,12/25/2020,3000,Pfizer/BioNTech
+Switzerland,12/26/2020,3000,Pfizer/BioNTech
+Switzerland,12/27/2020,3000,Pfizer/BioNTech
+Switzerland,12/28/2020,3000,Pfizer/BioNTech
+Switzerland,12/29/2020,3000,Pfizer/BioNTech
+Switzerland,12/30/2020,3000,Pfizer/BioNTech
+Switzerland,12/31/2020,3000,Pfizer/BioNTech
+Switzerland,1/1/2021,3000,Pfizer/BioNTech
+Switzerland,1/2/2021,3000,Pfizer/BioNTech
+Switzerland,1/3/2021,3000,Pfizer/BioNTech
+Switzerland,1/4/2021,3000,Pfizer/BioNTech
+Switzerland,1/5/2021,3000,Pfizer/BioNTech
+Switzerland,1/6/2021,3000,Pfizer/BioNTech
+Switzerland,1/7/2021,3000,Pfizer/BioNTech
+Switzerland,1/8/2021,3000,Pfizer/BioNTech
+Switzerland,1/9/2021,3000,Pfizer/BioNTech
+Switzerland,1/10/2021,3000,Pfizer/BioNTech
+Switzerland,1/11/2021,3000,Pfizer/BioNTech
+Switzerland,1/12/2021,3000,Pfizer/BioNTech
+Switzerland,1/13/2021,3000,Pfizer/BioNTech
+Switzerland,1/14/2021,3000,Pfizer/BioNTech
+Switzerland,1/15/2021,3829,Pfizer/BioNTech
+Switzerland,1/16/2021,4657,Pfizer/BioNTech
+Switzerland,1/17/2021,5486,Pfizer/BioNTech
+Switzerland,1/18/2021,6314,Pfizer/BioNTech
+Switzerland,1/19/2021,7143,Pfizer/BioNTech
+Switzerland,1/20/2021,10984,Pfizer/BioNTech
+Switzerland,1/21/2021,14826,Pfizer/BioNTech
+Turkey,1/13/2021,,Sinovac
+Turkey,1/14/2021,279452,Sinovac
+Turkey,1/15/2021,308326,Sinovac
+Turkey,1/16/2021,225634,Sinovac
+Turkey,1/17/2021,176613,Sinovac
+Turkey,1/18/2021,166482,Sinovac
+Turkey,1/19/2021,158439,Sinovac
+Turkey,1/20/2021,150356,Sinovac
+Turkey,1/21/2021,120115,Sinovac
+Turkey,1/22/2021,83651,Sinovac
+Turkey,1/23/2021,78569,Sinovac
+Turkey,1/24/2021,76886,Sinovac
+Turkey,1/25/2021,67192,Sinovac
+United Arab Emirates,1/5/2021,,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/6/2021,30698,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/7/2021,30698,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/8/2021,38418,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/9/2021,48512,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/10/2021,52053,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/11/2021,56825,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/12/2021,64193,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/13/2021,76797,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/14/2021,91448,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/15/2021,103490,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/16/2021,111082,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/17/2021,113744,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/18/2021,114896,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/19/2021,112816,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/20/2021,109510,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/21/2021,102605,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/22/2021,96156,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/23/2021,89839,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/24/2021,86430,"Pfizer/BioNTech, Sinopharm"
+United Arab Emirates,1/25/2021,85653,"Pfizer/BioNTech, Sinopharm"
+United Kingdom,12/20/2020,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/21/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/22/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/23/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/24/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/25/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/26/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/27/2020,46423,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/28/2020,47738,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/29/2020,49053,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/30/2020,50369,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,12/31/2020,51684,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/1/2021,52999,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/2/2021,54315,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/3/2021,55630,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/4/2021,74138,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/5/2021,92647,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/6/2021,111155,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/7/2021,129663,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/8/2021,148171,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/9/2021,166680,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/10/2021,185188,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/11/2021,182424,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/12/2021,187930,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/13/2021,202716,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/14/2021,222253,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/15/2021,242692,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/16/2021,256292,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/17/2021,262404,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/18/2021,268518,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/19/2021,286118,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/20/2021,297294,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/21/2021,310246,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/22/2021,331933,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/23/2021,362307,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United Kingdom,1/24/2021,361321,"Oxford/AstraZeneca, Pfizer/BioNTech"
+United States,12/20/2020,,"Moderna, Pfizer/BioNTech"
+United States,12/21/2020,57909,"Moderna, Pfizer/BioNTech"
+United States,12/22/2020,127432,"Moderna, Pfizer/BioNTech"
+United States,12/23/2020,150606,"Moderna, Pfizer/BioNTech"
+United States,12/24/2020,191001,"Moderna, Pfizer/BioNTech"
+United States,12/25/2020,215238,"Moderna, Pfizer/BioNTech"
+United States,12/26/2020,231396,"Moderna, Pfizer/BioNTech"
+United States,12/27/2020,211379,"Moderna, Pfizer/BioNTech"
+United States,12/28/2020,216147,"Moderna, Pfizer/BioNTech"
+United States,12/29/2020,235685,"Moderna, Pfizer/BioNTech"
+United States,12/30/2020,255223,"Moderna, Pfizer/BioNTech"
+United States,12/31/2020,278776,"Moderna, Pfizer/BioNTech"
+United States,1/1/2021,302329,"Moderna, Pfizer/BioNTech"
+United States,1/2/2021,325882,"Moderna, Pfizer/BioNTech"
+United States,1/3/2021,336949,"Moderna, Pfizer/BioNTech"
+United States,1/4/2021,348017,"Moderna, Pfizer/BioNTech"
+United States,1/5/2021,339372,"Moderna, Pfizer/BioNTech"
+United States,1/6/2021,358887,"Moderna, Pfizer/BioNTech"
+United States,1/7/2021,378253,"Moderna, Pfizer/BioNTech"
+United States,1/8/2021,419933,"Moderna, Pfizer/BioNTech"
+United States,1/9/2021,461263,"Moderna, Pfizer/BioNTech"
+United States,1/10/2021,546636,"Moderna, Pfizer/BioNTech"
+United States,1/11/2021,632009,"Moderna, Pfizer/BioNTech"
+United States,1/12/2021,641524,"Moderna, Pfizer/BioNTech"
+United States,1/13/2021,710238,"Moderna, Pfizer/BioNTech"
+United States,1/14/2021,747082,"Moderna, Pfizer/BioNTech"
+United States,1/15/2021,798707,"Moderna, Pfizer/BioNTech"
+United States,1/16/2021,811670,"Moderna, Pfizer/BioNTech"
+United States,1/17/2021,824632,"Moderna, Pfizer/BioNTech"
+United States,1/18/2021,837595,"Moderna, Pfizer/BioNTech"
+United States,1/19/2021,911493,"Moderna, Pfizer/BioNTech"
+United States,1/20/2021,892403,"Moderna, Pfizer/BioNTech"
+United States,1/21/2021,913912,"Moderna, Pfizer/BioNTech"
+United States,1/22/2021,975540,"Moderna, Pfizer/BioNTech"
+United States,1/23/2021,1057387,"Moderna, Pfizer/BioNTech"
+United States,1/24/2021,1122182,"Moderna, Pfizer/BioNTech"
+United States,1/25/2021,1126251,"Moderna, Pfizer/BioNTech"
+Wales,12/13/2020,,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/14/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/15/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/16/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/17/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/18/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/19/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/20/2020,2198,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/21/2020,2136,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/22/2020,2074,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/23/2020,2012,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/24/2020,1950,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/25/2020,1887,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/26/2020,1825,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/27/2020,1763,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/28/2020,1796,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/29/2020,1830,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/30/2020,1863,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,12/31/2020,1896,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/1/2021,1929,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/2/2021,1962,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/3/2021,1995,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/4/2021,2450,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/5/2021,2904,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/6/2021,3359,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/7/2021,3814,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/8/2021,4268,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/9/2021,4723,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/10/2021,5177,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/11/2021,5183,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/12/2021,5893,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/13/2021,6812,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/14/2021,7988,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/15/2021,8460,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/16/2021,8931,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/17/2021,9403,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/18/2021,10123,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/19/2021,10672,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/20/2021,11105,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/21/2021,12318,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/22/2021,15148,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/23/2021,17371,"Oxford/AstraZeneca, Pfizer/BioNTech"
+Wales,1/24/2021,17063,"Oxford/AstraZeneca, Pfizer/BioNTech"
