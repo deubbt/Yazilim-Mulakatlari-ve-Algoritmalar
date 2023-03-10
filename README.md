@@ -50,6 +50,6 @@ Mülakatlarda başarılı olmak için Bilgisayar Bilimleri'nden bilmeniz gereken
 - &nbsp;
 - <b>[BilgisayarKavramlari - Algoritma Analizi](https://www.youtube.com/watch?v=3bhBo9YCTpo&list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h&ab_channel=BilgisayarKavramlari)</b>
 - &nbsp;
-- [swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)
+- <b>[swift-algorithm-club](https://github.com/kodecocodes/swift-algorithm-club)</b>
 
 Mülakatlarda başarılı olmak istiyorsanız, internetten kopyala yapıştır yapmak yerine gerçekten algoritmanın mantığını anlayıp tek başınıza bu mantıkla algoritma kodunu kodlamanız gerekir.
